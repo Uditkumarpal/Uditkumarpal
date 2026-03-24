@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm UditKumarpal</h1>
+<h1 align="center">Hi 👋, I'm Udit Kumar</h1>
 <h3 align="center">A passionate Data Science/Data Analysis from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uditkumarpal&label=Profile%20views&color=0e75b6&style=flat" alt="uditkumarpal" /> </p>
